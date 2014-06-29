@@ -148,7 +148,7 @@ h4 {
 	font-weight:700;
 	margin-right:-4px;
 	line-height:30px;
-	height:39px;
+	height: 52px;
 }
 #logo a:hover {color:#fff;
 }
@@ -206,9 +206,9 @@ h4 {
 .menu li a:hover {background-position:0 131px;
 }
 /* Inside Page Menu */
-.menu.min_menu {height:40px;
+.menu.min_menu {height:48px;
 }
-.menu.min_menu li {height:40px;
+.menu.min_menu li {height:48px;
 }
 .menu.min_menu li a,
 .menu.min_menu li a:hover {

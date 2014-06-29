@@ -21,7 +21,7 @@ body {
 	font-weight:400;
 	line-height:20px;
 	font-size:13px;
-	color:#fffff;
+	color:#5d6d77;
 	background-repeat:repeat;
 	background-position:0 0;	
 }
@@ -46,7 +46,7 @@ body.pattern9 {background-image:url(../images/bg_pattern/pattern9.png);
 body.pattern10 {background-image:url(../images/bg_pattern/pattern10.png);
 }
 p {
-	padding:0 0 8px 0;
+	padding:0 0 10px 0;
 	margin:0;
 }
 a {text-decoration:none;

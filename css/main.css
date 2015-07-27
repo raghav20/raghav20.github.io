@@ -152,6 +152,20 @@ h4 {
 }
 #logo a:hover {color:#fff;
 }
+#logor {text-align:right;
+}
+#logor a {
+	display:inline-block;
+	color:#333 !important;
+	font-family: 'Open Sans', sans-serif;
+	font-size:10px;
+	font-weight:200;
+	margin-right:1px;
+	line-height:15px;
+	height: 15px;
+}
+#logor a:hover {color:#fff;
+}
 .menu li {
 	display:inline-block;
 	width:20%;
